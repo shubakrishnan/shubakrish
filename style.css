@@ -1,0 +1,11 @@
+.subTag{
+    display: none;
+}
+nav div{
+display:inline-block;
+margin-left: 20px;
+margin: bottom 20px;
+}
+nav div:hover.subTag{
+    display: grid;
+}
